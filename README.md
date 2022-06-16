@@ -16,6 +16,8 @@ In the PHP application we developed, if we use the `file_get_contents` function 
 
 The early versions may be immature and will be mainly updated later! The version of PHP is also being updated, as is the network security aspect! This project will continue to be updated over time! If there is a problem, U can go to the "[Issues](https://github.com/BiliPrk/php_curl_func/issues)" of the project to stay.
 
-## Words to Friends from PRC
+## Words to Friends from PRC / 给来自中国的朋友的话
 
 If U happen to be a friend from mainland PRC, and U don't have access to GitHub, which is blocked by the Chinese Gov, but U still want to get updates, then I think U may need some special means of accessing the Internet or go to [my Chinese blog](https://www.cprk.cc/) to download.
+
+如果你恰好是中国大陆的朋友，而且你没有权限访问被中国政府封锁的 GitHub，但你仍然想获得更新，那么我认为你可能需要一些特殊的访问互联网的方式或是去[我的中文博客](https://www.cprk.cc/)下载。
