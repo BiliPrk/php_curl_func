@@ -37,9 +37,11 @@
      * Proxy array:
      * Key          Type            Must        Remark
      * ====================================================================================================================================================================================
-     * type         String          True
-     * server       String          True
-     * port         String          True
+     * type         String          True        Proxy type, such as: sock5
+     * server       String          True        Proxy server IP or domain-name
+     * port         String          True        Proxy server port
+     * username     String          False       Username for proxy server authentication information
+     * password     String          False       Password for proxy server authentication information
      * 
      * Return:
      * Content requested by cUrl
@@ -183,9 +185,11 @@
      * Proxy array:
      * Key          Type            Must        Remark
      * ====================================================================================================================================================================================
-     * type         String          True
-     * server       String          True
-     * port         String          True
+     * type         String          True        Proxy type, such as: sock5
+     * server       String          True        Proxy server IP or domain-name
+     * port         String          True        Proxy server port
+     * username     String          False       Username for proxy server authentication information
+     * password     String          False       Password for proxy server authentication information
      * 
      * Return:
      * Content requested by cUrl
