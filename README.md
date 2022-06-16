@@ -8,6 +8,8 @@ Latest Version: `V1.0.1`
 Still Updating: `True`  
 Perfectly Adapted PHP Version: `7.4`  
 
+> Since PHP can provide a lot of cUrl opts, I will find a way to ena all opts in later vers. Not all opts are currently supported. And adapt to all vers of PHP.
+
 ## Development Reasons
 
 In the PHP application we developed, if we use the `file_get_contents` function that comes with PHP for the part involving network requests, the scalability and efficiency R not high. In my recent projects, there R many parts that rely on network requests. I have to construct different cUrl for each of them, which is very tiring at this time! So I will continue to update the same cUrl function, which is convenient for myself and others!
